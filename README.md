@@ -14,6 +14,8 @@
   <img src="https://profile-counter.glitch.me/wellzhi/count.svg" />
 </p>
 
-##### Star History
+[//]: # (##### Star History)
 
-![Star History Chart](https://api.star-history.com/svg?repos=wellzhi/springboot-flowable,wellzhi/springboot-activiti&type=Date)
+[//]: # ()
+[//]: # (![Star History Chart]&#40;https://api.star-history.com/svg?repos=wellzhi/springboot-flowable,wellzhi/springboot-activiti&type=Date&#41;)
+
