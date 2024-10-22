@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/java-000000?style=flat&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellzhi&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellzhi&show_icons=true&theme=onedark)]()
 
 <p align="left"> 
   Visitor count<br>
