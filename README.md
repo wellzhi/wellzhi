@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 - 📫 How to reach me: 381197562@qq.com
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/wellzhi/count.svg" />
-</p>
 
 ##### Languages I use
 
@@ -16,16 +12,21 @@
 <tr>
 <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellzhi&hide_progress=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellzhi&hide_progress=true&theme=onedark&layout=compact&card_width=495&height=195)
 
 </td>
 <td>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wellzhi&show_icons=true&theme=onedark)]()
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wellzhi&show_icons=true&theme=onedark&card_width=495&height=195)]()
 
 </td>
 </tr>
 </table>
+
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wellzhi/count.svg" />
+</p>
 
 [//]: # (##### Star History)
 
