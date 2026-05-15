@@ -12,12 +12,12 @@
 <tr>
 <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellzhi&hide_progress=true&theme=onedark&layout=compact&card_width=495&height=195)
+[//]: # (![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellzhi&hide_progress=true&theme=onedark&layout=compact&card_width=495&height=195))
 
 </td>
 <td>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wellzhi&show_icons=true&theme=onedark&card_width=495&height=195)]()
+[![GitHub stats](https://img.shields.io/github/stars/wellzhi?style=social)]()
 
 </td>
 </tr>
