@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: 381197562@qq.com
+- 📫 How to reach me: wellzhi.ai@gmail.com
 
 ##### Languages I use
 
