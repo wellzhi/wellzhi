@@ -12,7 +12,7 @@
 <tr>
 <td>
 
-[//]: # (![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellzhi&hide_progress=true&theme=onedark&layout=compact&card_width=495&height=195))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellzhi&hide_progress=true&theme=onedark&layout=compact&card_width=495&height=195)
 
 </td>
 <td>
