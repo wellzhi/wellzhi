@@ -17,15 +17,18 @@
 </td>
 <td>
 
-[![Anurag's github stats|450x165](https://github-readme-stats.vercel.app/api?username=wellzhi&theme=onedark&hide_title=true)](https://wellzhi.top)
+[![Wellzhi's github stats](https://github-readme-stats.vercel.app/api?username=wellzhi&theme=onedark&hide_title=true)](https://wellzhi.top)
 
 </td>
 </tr>
 </table>
 
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/wellzhi/count.svg" />
+
+[//]: # (<p align="left"> )
+
+[//]: # (  Visitor count<br>)
+
+[//]: # (  <img src="https://profile-counter.glitch.me/wellzhi/count.svg" />)
 </p>
 
 [//]: # (##### Star History)
