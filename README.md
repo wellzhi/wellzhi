@@ -11,10 +11,14 @@
 <table>
 <tr>
 <td>
+  
 [![Wellzhi's github stats](https://github-readme-stats.vercel.app/api?username=wellzhi&theme=onedark&hide_title=true)](https://wellzhi.top)
+
 </td>
 <td>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellzhi&hide_progress=true&theme=onedark&layout=compact&card_width=495&height=195)
+
 </td>
 </tr>
 </table>
