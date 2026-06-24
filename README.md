@@ -17,8 +17,7 @@
 </td>
 <td>
 
-[//]: # [![GitHub stats](https://img.shields.io/github/stars/wellzhi?style=social)]()
-[![Anurag's github stats|450x165](https://github-readme-stats.vercel.app/api?username=wellzhi&hide_title=true)](https://wellzhi.top)
+[![Anurag's github stats|450x165](https://github-readme-stats.vercel.app/api?username=wellzhi&theme=onedark&hide_title=true)](https://wellzhi.top)
 
 </td>
 </tr>
